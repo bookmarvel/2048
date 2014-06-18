@@ -11,3 +11,5 @@ We're using this version as the recommended fork to avoid potential learning iss
 
 ## Donations
 Gabriele made this in his spare time, and it's hosted on GitHub (which means I don't have any hosting costs), but if you enjoyed the game and feel like buying him coffee, you can donate at his BTC address: `1Ec6onfsQmoP9kkL3zkpB6c5sA4PVcXU2i`.
+## Ana's Inserted Stuff
+the thing said I change this and I have no idea what I should do, so I'm just writing this in here and hope I'm not messing anything up.
